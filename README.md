@@ -28,7 +28,7 @@ https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
 #### Get all items
 
 ```http
-  GET => https://api.openweathermap.org/data/2.5/weather?q=bengaluru&appid=6c145019ec1e7349e309372ff8dfeddd&units=metric
+  GET ddd => https://api.openweathermap.org/data/2.5/weather
 ```
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
@@ -36,7 +36,7 @@ https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `api_key` | `string` |  6c145019ec1e7349e309372ff8dfeddd|
+| `api_key` | `string` | 6c145019ec1e7349e309372ff8dfedd|
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
