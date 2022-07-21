@@ -36,7 +36,7 @@ https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `api_key` | `string` | 6c145019ec1e7349e309372ff8dfedd|
+| `api_key` | `string` | ------|
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
